@@ -15,8 +15,6 @@ This project builds an automated **ETL pipeline** to:
 - **Merge**: Combine datasets into a single, comprehensive view
 - **Load**: Export analysis-ready CSV for downstream analytics
 
-The pipeline is fully tested, documented, and production-ready.
-
 ## 2. Objective
 
 Deliver a clean, unified dataset combining:
